@@ -1,5 +1,5 @@
 # It works! ;-)
-[linktest](about.md)
+[linktest](./pages/about.md)
 
 ## Section 1
 
