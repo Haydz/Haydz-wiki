@@ -1,5 +1,5 @@
 # It works! ;-)
-
+[linktest](/pages/about.md)
 
 ## Section 1
 
